@@ -21,9 +21,8 @@ Regional performance with map visualization<br>
 Customer segmentation insights<br>
 
 Screenshots<br>
-![Best Selling Products](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Best%20Selling%20Products.png)
-![Categories](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Categories.png)
-![Executive Overview](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Executive%20Overview.png)
 ![Home Page](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Home%20Page.png)
+![Executive Overview](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Executive%20Overview.png)
+![Best Selling Products](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Best%20Selling%20Products.png)
 ![Sales Trends](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Sales%20Trends.png)
-
+![Categories](https://github.com/roshanshelke7711/Sales-Performance-Dashbord/blob/main/Categories.png)
